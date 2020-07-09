@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**intrepidkarthi/intrepidkarthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello World 👋
 
 
 - 🌱 Working with Sequoia.com, Bengaluru. Building SaaS Products, Machine Learning
