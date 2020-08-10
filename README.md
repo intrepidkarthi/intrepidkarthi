@@ -10,4 +10,9 @@
   - I do share personal updates here [my blog](http://www.intrepidkarthi.com)
   - I share my professional and my talks related updates here [LinkedIn](https://www.linkedin.com/in/intrepidkarthi/)
   - I share my travelogue here [Instagram](https://www.instagram.com/intrepidkarthi/)
+  
+  
+![github stats](https://github-readme-stats.vercel.app/api?username=intrepidkarthi&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=intrepidkarthi.intrepidkarthi)
 
