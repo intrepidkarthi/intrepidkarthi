@@ -4,7 +4,7 @@
   <img align="right" height="200" width="200" alt="GIF" src="https://media.giphy.com/media/l3975CZuyQgoNVuOA/giphy.gif" />  
 
 - 🌱 Building SaaS & Mobile Products that scales
-- Built High Frequency Trading platform and an hustling engineer into the Crypto Eco System for the past few years 
+- Built High Frequency Trading platform and an hustling engineer into the Crypto Eco System
 - 📚 Authored two books on AI/ML about Tensorflow & CoreML [Amazon link](https://www.amazon.com/s?k=karthikeyan+ng&ref=nb_sb_noss)
 - 🤔 Looking to help with any product ideas to implementation
 - 💬 Ask me about: building products, building teams, hacks to build, hacks to hire the best talent
